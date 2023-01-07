@@ -1,0 +1,33 @@
+.search-icon {
+  /* color: white; */
+  /* padding-top: 29px; */
+  top: 45px;
+  right: 510px;
+}
+.camera-icon {
+  top: 45px;
+  left: auto;
+  right: 565px;
+}
+.searchBar {
+  width: calc(100% - 574px);
+}
+.link-list > ul {
+  width: 810px;
+}
+.link-list > ul li {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.link-list > ul li:hover {
+  color: #ff6a00;
+}
+.header-right-list {
+  width: 560px;
+  padding-left: 270px;
+}
+.category-header-list {
+  width: 400px;
+}
