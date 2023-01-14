@@ -21,9 +21,14 @@
   white-space: nowrap;
   vertical-align: middle;
 }
-.link-list > ul li:hover {
+
+.header-list-title1-link:hover {
   color: #ff6a00;
 }
+/* .category-header-list ul > li:hover {
+  z-index: 100;
+  border: 0.5px solid rgb(131, 130, 130);
+} */
 .header-right-list {
   width: 560px;
   padding-left: 270px;
