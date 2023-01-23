@@ -36,3 +36,36 @@
 .category-header-list {
   width: 400px;
 }
+/* .footer-1 th {
+  padding: 10px;
+} */
+.SupplierApp-icon {
+  background: url("https://s.alicdn.com/@g/sc/footer/0.0.4/sc-footer/src/vers0.5x.png")
+    no-repeat;
+  background-position: -149px 0;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: -1px;
+}
+.shareFB {
+  background: url("https://s.alicdn.com/@g/sc/footer/0.0.4/sc-footer/src/vers0.5x.png")
+    no-repeat;
+  background-position: 0 0;
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.shareIN {
+  background: url("https://s.alicdn.com/@g/sc/footer/0.0.4/sc-footer/src/vers0.5x.png")
+    no-repeat;
+  background-position: 0 -75px;
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
