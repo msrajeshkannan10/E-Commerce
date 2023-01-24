@@ -675,18 +675,18 @@ export default function Home() {
             <div className="share flex items-center">
               <span className="font-medium">Follow us :</span>
               <span className="flex">
-                <Link className="shareFB"></Link>
-                <Link className="bg-white p-0.5 ml-1 mt-1 h-5 flex items-center rounded">
+                <Link className="shareFB hover:opacity-80"></Link>
+                <Link className="bg-white p-0.5 hover:opacity-80 ml-1 mt-1 h-5 flex items-center rounded">
                   <BsInstagram size={17} color="#445268" />
                 </Link>
-                <Link className="shareTT bg-white p-0.5 ml-1 mt-1 h-5 flex items-center rounded">
+                <Link className="shareTT bg-white hover:opacity-80 p-0.5 ml-1 mt-1 h-5 flex items-center rounded">
                   <FaTiktok size={19} color="#445268" />
                 </Link>
-                <Link className="shareIN"></Link>
-                <Link className=" bg-white p-0.5 ml-1 mt-1 h-5 flex items-center rounded">
+                <Link className="shareIN hover:opacity-80"></Link>
+                <Link className=" bg-white p-0.5 ml-1 hover:opacity-80 mt-1 h-5 flex items-center rounded">
                   <FaYoutube size={17} color="#445268" />
                 </Link>
-                <Link className=" bg-white p-0.5 ml-1 mt-1 h-5 flex items-center rounded">
+                <Link className=" bg-white p-0.5 ml-1 hover:opacity-80 mt-1 h-5 flex items-center rounded">
                   <BsTwitter size={17} color="#445268" />
                 </Link>
               </span>
